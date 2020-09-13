@@ -1,1 +1,1 @@
-# Pacma/n
+# Pacman
